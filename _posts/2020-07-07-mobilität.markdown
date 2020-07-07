@@ -8,7 +8,7 @@ tags:   Mobilität ÖPNV DesignBuild Radln
 Der größte Teil der Studierenden und Mitarbeiter*innen reist bereits mit dem Fahrrad oder dem ÖPNV
 an. Der Campus ist darauf jedoch nicht wirklich ausgerichtet.
 
-![]({{site.baseurl}}/img/diagram_mob.pdf)
+![]({{site.baseurl}}/img/diagram_mob.jpg)
 
 Fragestellung/Stellschrauben
 Wie viele Stellplätze für PKW und Fahrräder gibt es im Moment überhaupt?
