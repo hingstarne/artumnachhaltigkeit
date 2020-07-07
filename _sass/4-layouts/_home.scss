@@ -1,11 +1,11 @@
 // Header
 .header {
   margin-bottom: 50px;
-  background: $black;
+  background: $white;
 }
 
 .header, .header-box {
-  height: 60px;
+  height: 120px;
 }
 
 .header-box {
@@ -15,9 +15,9 @@
   align-items: center;
   .logo-title {
     .logo-text {
-      font-size: 16px;
+      font-size: 18px;
       font-weight: 700;
-      line-height: 16px;
+      line-height: 18px;
       text-transform: uppercase;
       letter-spacing: 5px;
       color: $text;
@@ -62,6 +62,7 @@
     position: relative;
     font-size: 30px;
     font-weight: 700;
+    letter-spacing: 5px;
     line-height: 60px;
     color: $text;
     &:before {
