@@ -2,7 +2,7 @@
 $primary-color: #1ABC9C;
 $secondary-color: #C19CD8;
 $highlight: #ffeea8;
-$text: #C9D3E7;
+$text: #000000;
 $gray-blue: #707890;
 $white: #ffffff;
 $black: #101010;
@@ -21,7 +21,7 @@ $background: $white;
 $body-color: $text;
 
 // Headings
-$heading-font-color: #404040;
+$heading-font-color:$black;
 
 // Links
 $link-color: $primary-color;
