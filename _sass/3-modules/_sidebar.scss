@@ -6,11 +6,7 @@
   padding: 40px 15px;
   margin-bottom: 30px;
   background: rgba($white, .95);
-  border: solid $blue-black;
-  .bordered {
-    padding: 20px;
-    border: 50px solid $blue-black;
-  }
+  border: 10px dashed $blue-black;
   .widget-title {
     position: relative;
     padding-bottom: 15px;
