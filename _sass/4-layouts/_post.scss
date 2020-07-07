@@ -4,7 +4,8 @@
 }
 
 .post-image-box {
-  background: $black;
+  background: $white;
+  border: 3px dashed $black;
   &.reveal-in {
     .post-image {
       opacity: 1;
