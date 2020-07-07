@@ -5,8 +5,12 @@
 .widget {
   padding: 40px 15px;
   margin-bottom: 30px;
-  background: rgba($blue-darken, .95);
+  background: rgba($white, .95);
   box-shadow: 0 9px 18px 0 rgba(0, 0, 0, 0.25);
+  .bordered {
+    padding: 20px;
+    border: 10px solid $blue-black;
+  }
   .widget-title {
     position: relative;
     padding-bottom: 15px;
