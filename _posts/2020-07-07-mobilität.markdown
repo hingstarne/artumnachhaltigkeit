@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Mobilitaet
+title:  Mobilität
 date:   2020-07-07 15:28:55 +0300
 image:  02.jpg
-tags:   Mobilitaet OEPNV DesignBuild Radln
+tags:   Mobilität ÖPNV DesignBuild Radln
 ---
 Der größte Teil der Studierenden und Mitarbeiter*innen reist bereits mit dem Fahrrad oder dem ÖPNV
 an. Der Campus ist darauf jedoch nicht wirklich ausgerichtet.
