@@ -232,7 +232,8 @@
       font-size: 12px;
       border-radius: $global-radius;
       color: $text;
-      background: $blue-black;
+      background: $white;
+      border: $primary-color;
       &:hover {
         color: $white;
         background: $primary-color;
