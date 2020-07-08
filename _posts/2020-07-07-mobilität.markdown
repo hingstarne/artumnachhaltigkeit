@@ -8,14 +8,18 @@ tags:   Mobilität ÖPNV DesignBuild Radln
 Der größte Teil der Studierenden und Mitarbeiter*innen reist bereits mit dem Fahrrad oder dem ÖPNV
 an. Der Campus ist darauf jedoch nicht wirklich ausgerichtet.
 
+
 ![]({{site.baseurl}}/img/diagram_mob.jpg)
 
-Fragestellung/Stellschrauben
-Wie viele Stellplätze für PKW und Fahrräder gibt es im Moment überhaupt?
-Wie können wir die Fahrradinfrastruktur verbessern?
-Wie könnten wir mehr Fahrrad-Stellplätze schaffen oder gleich einen Bike Hub bauen? Wie kann die
+
+# Fragestellung/Stellschrauben
+
+* Wie viele Stellplätze für PKW und Fahrräder gibt es im Moment überhaupt?
+* Wie können wir die Fahrradinfrastruktur verbessern?
+* Wie könnten wir mehr Fahrrad-Stellplätze schaffen oder gleich einen Bike Hub bauen? Wie kann die
 Umsetzung funktionieren?
-Wie wäre es mit Lastenrädern für den Materialtransport?
-Könnten wir ein Projekt aufsetzen, dass sich mit einer Neuordnung und Verbesserung des Straßennetzes
+* Wie wäre es mit Lastenrädern für den Materialtransport?
+* Könnten wir ein Projekt aufsetzen, dass sich mit einer Neuordnung und Verbesserung des Straßennetzes
 um den Campus beschäftig?
-Ansprechpartner*in:
+
+### Ansprechpartner*in:
