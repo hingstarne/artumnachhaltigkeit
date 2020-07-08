@@ -14,7 +14,7 @@ an. Der Campus ist darauf jedoch nicht wirklich ausgerichtet.
 
 
 
-###### Fragestellung/Stellschrauben
+###### Stellschrauben
 
 * Wie viele Stellplätze für PKW und Fahrräder gibt es im Moment überhaupt?
 * Wie können wir die Fahrradinfrastruktur verbessern?
