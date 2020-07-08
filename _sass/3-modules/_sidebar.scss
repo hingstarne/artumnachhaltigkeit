@@ -170,7 +170,7 @@
   }
 }
 
-// Newsletter Widget
+// Contact us Widget
 .widget-newsletter {
   text-align: center;
   .newsletter-subtitle {
@@ -231,7 +231,7 @@
       padding: 5px 15px;
       font-size: 12px;
       border-radius: $global-radius;
-      color: $text;
+      color: $primary-color;
       background: $white;
       border: 1px solid $primary-color;
       &:hover {
