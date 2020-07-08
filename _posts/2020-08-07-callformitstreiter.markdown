@@ -15,7 +15,7 @@ wir waren erfreut über die rege Teilnahme an und sonstige Rückmeldungen zu uns
 
  
 
-Mit der Einsetzung der Task Force Nachhaltigkeit und der Einrichtung einer Stabsstelle Nachhaltigkeit wird von Seiten des TUM-Präsidiums bereits eine umfassende Strategie für die gesamte TUM verfolgt bzw. vorbereitet. (mehr Informationen siehe https://www.together.tum.de/aktuelles/veroeffentlichungen/2020/04/20/so-foerdert-die-tum-nachhaltigkeit/). Zudem gab es an der und um die Fakultät zahlreiche Initiativen, die bereits einzelne Aspekte verfolgt haben oder verfolgen. 
+Mit der Einsetzung der Task Force Nachhaltigkeit und der Einrichtung einer Stabsstelle Nachhaltigkeit wird von Seiten des TUM-Präsidiums bereits eine umfassende Strategie für die gesamte TUM verfolgt bzw. vorbereitet. (mehr Informationen siehe <a href = "https://www.together.tum.de/aktuelles/veroeffentlichungen/2020/04/20/so-foerdert-die-tum-nachhaltigkeit/" a>). Zudem gab es an der und um die Fakultät zahlreiche Initiativen, die bereits einzelne Aspekte verfolgt haben oder verfolgen. 
 
  
 
