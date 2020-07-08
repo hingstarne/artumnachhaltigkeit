@@ -16,6 +16,7 @@
     color: $text;
     font-weight: 700;
     background: $white;
+    border: solid $primary-color 1px;
     &:hover {
       color: $white;
       background: $primary-color;      
