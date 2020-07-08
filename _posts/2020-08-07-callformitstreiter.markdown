@@ -2,8 +2,8 @@
 layout: post
 title:  Call for Comrades
 date:   2020-08-07 15:28:55 +0300
-image:  titel_map.jpg
-tags:   Mobilität Lehre Forschung Ernährung Klima
+image:  titel_map-01.jpg
+tags:   Mobilität Lehre Forschung Klima
 ---
 Liebe Kolleg\*innen, liebe Student\es*innen, 
 
