@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mobilität
+title:  AG Mobilität
 date:   2020-07-07 15:28:55 +0300
 image:  02.jpg
 tags:   Mobilität ÖPNV DesignBuild Radln
@@ -9,10 +9,12 @@ Der größte Teil der Studierenden und Mitarbeiter*innen reist bereits mit dem F
 an. Der Campus ist darauf jedoch nicht wirklich ausgerichtet.
 
 
+
 ![]({{site.baseurl}}/img/diagram_mob.jpg)
 
 
-# Fragestellung/Stellschrauben
+
+###### Fragestellung/Stellschrauben
 
 * Wie viele Stellplätze für PKW und Fahrräder gibt es im Moment überhaupt?
 * Wie können wir die Fahrradinfrastruktur verbessern?
@@ -20,6 +22,6 @@ an. Der Campus ist darauf jedoch nicht wirklich ausgerichtet.
 Umsetzung funktionieren?
 * Wie wäre es mit Lastenrädern für den Materialtransport?
 * Könnten wir ein Projekt aufsetzen, dass sich mit einer Neuordnung und Verbesserung des Straßennetzes
-um den Campus beschäftig?
+um den Campus beschäftigt?
 
-### Ansprechpartner*in:
+Ansprechpartner*in:
