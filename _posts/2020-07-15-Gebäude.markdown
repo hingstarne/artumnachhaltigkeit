@@ -1,0 +1,30 @@
+---
+layout: post
+title:  AG unser Haus
+date:   2020-07-15 15:28:55 +0300
+image:  img_mobilität.jpg
+tags:   Klima Forschung Betrieb Entwurf
+---
+An den Lehrstühlen befindet sich ein Teil der elektronischen Geräte (39%) dauerhaft im Standby. Die
+Regulierung der Heizungen funktioniert in manchen Räumen schlecht. Es gibt kein übergreifendes Energiekonzept.
+
+
+
+![]({{site.baseurl}}/img/diagram_mob.jpg)
+
+
+
+###### Stellschrauben
+
+* Wie hoch ist unser Stromverbrauch als Fakultät? Wie hoch ist unser Wasserverbrauch? Wie viel wird
+geheizt?
+* Können wir Monitoring einführen um Schwachstellen zu finden sowie zu sensibilisieren? 
+* Können wir durch intelligente Thermostate oder Präsenzmelder den Verbrauch reduzieren?
+* Wo sind die energetischen Schwachstellen unserer Hochschulgebäude?
+* Wie kann die Nutzung des Gebäudebestands besser organisiert oder umstrukturiert werden?
+
+Ansprechpartner*in: Laura Franke
+
+###### Pilot
+
+* REUSED

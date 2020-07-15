@@ -1,30 +1,28 @@
 ---
 layout: post
-title:  AG Materialverbrauch im Entwurf
+title:  AG Entwurf
 date:   2020-07-07 15:28:55 +0300
 image:  02.jpg
-tags:   Müll Lehre Recycling
+tags:   Müll Lehre Recycling Entwurf
 ---
-250 Studierende haben letztes Semester zusammen knapp 2000 Modelle gebaut. Dafür wurden 4000
-Pappen, 250 Liter Leim und über 100 Dosen Sprayfarbe verbraucht und sowie mehr als 1700 Stunden
-gelasert. Zudem wurden fast 5000 Pläne geplottet.
-Aus der Umfrage wird ersichtlich, dass viele Studierenden den hohen Materialverbrauch als
-Problem wahrnehmen.
+Mülltrennung durch die Mitarbeiter*innen findet teilweise statt. Zumindest zwischen Glas. Papier und
+Restmüll. Inwiefern die Mülltrennung vom Gebäudemanagement weitergeführt wird, ist unklar. Das
+trägt auch zu wenig Motivation seitens der Mitarbeiter*innen bei.
 
-Der Modellbau gehört zum Entwurfsstudio dazu, ebenso wie Planzeichnungen verschiedener Maßstäbe.
-Jedoch muss dies mit Verhältnissmäßigkeit getan und die Angemessenheit verschiedener Methoden
-abgewogen werden. Durch die Digitalisierung sind neue Tools vorhanden, die einen Beitrag zur
-Nachhaltigkeit leisten können.
+In den Arbeitsräumen der Entwurfsstudios funktioniert die Mülltrennung teils sehr schlecht,
+sofern überhaupt getrennte Behältnisse vorgesehen sind. Laut den Studierenden, werden
+große Mengen noch verwertbares Material weggeworfen. Gründe hierfür seien der „Perfektionismus“
+beim Modellbau, fehlende Lagermöglichkeiten insbesondere über die Semesterferien,
+mangelnde Verwertung von Restmaterialien und fehlende Sensilibisierung.
+
+Die Fachschaft organisierte das Einsammeln von Papperesten (Call for Pappe ) aus den Studios am
+Ende des Semesters, was gut angenommen wurde. Dem Versuch daraus eine Pappebörse einzurichten,
+fehlt jedoch ein Ort. Außerdem gibt es eine Materialbörse auf Facebook.
 
 ###### Stellschrauben
 
-* Sensibilisierung der Lehrenden und Studierenden
-* Maßgaben für einen angemessenen Umgang mit Materialien erarbeiten
-* Modellmöbelvermietung
-* Nachhaltigere Materialien, z.B. umweltverträgliche Klebstoffe
-* Recyclingpotenziale
-* Integration von besserer Mülltrennung und Recycling-Kreisläufen in die Entwurfsarbeit
-
-###### Pilot
-
-* Materialbörse 2.0
+* Inwiefern findet Mülltrennung seitens des Gebäudemanagements statt? Kann dies ausgeweitet werden?
+* Können wir Sharing oder Tauschangebote einführen? Projekt TUM-Swap-Shop?
+* Wie könnten Materialbörsen in allen Studios organisiert werden? Könnten gesammelte Materialbestellungen
+Sinn machen um Verpackung zu sparen?
+* Wie können wir auf weniger Müllproduktion innerhalb des Lehr- und Forschungsbetriebs hinwirken?

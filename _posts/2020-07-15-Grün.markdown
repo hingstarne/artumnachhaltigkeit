@@ -1,0 +1,18 @@
+---
+layout: post
+title:  AG Campus Grün
+date:   2020-07-15 15:28:55 +0300
+image:  pflanzen.jpg
+tags:   DesignBuild Klima Begrünung
+---
+
+
+###### Stellschrauben
+
+* Wie ist das Mikro-Klima auf dem Campus und wie kann es, vor allem im Sommer, verbessert werden?
+* Wie könnte mehr Begrünung auf den Campus kommen? Gibt es Möglichkeiten für Fassadenbegrünungen?
+* Können wir lokal die Biodiversität fördern? Können wir ein Pilot-Projekt in Kooperation mit
+anderen Fakultäten starten?
+
+###### Pilot
+* begrünter Innenhof

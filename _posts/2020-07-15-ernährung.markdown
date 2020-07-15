@@ -1,0 +1,20 @@
+layout: post
+title:  AG Ernährung
+date:   2020-07-15 15:28:55 +0300
+image:  pflanzen.jpg
+tags:   Klima Ernährung
+---
+Der Großteil der Mitarbeiter*innen (über 80%) achtet auf nachhaltige Ernährung. Das Angebot
+an der TUM ist jedoch nicht darauf ausgelegt.
+
+###### Stellschrauben
+* Kann man aus dem Vorhoelzer Forum ein Pilot-Projekt für nachhaltige Ernährung machen? Was würde
+dies beinhalten (regional, bio, vegetarisch, vegan, verpackungsfrei, fair-gehandelt,...)? Wie könnte dies
+umgesetzt werden?
+* Wie kann das Angebot der Mensa Arcisstraße verbessert und ökologisch nachhaltiger (regional, bio,
+vegetarisch, vegan, verpackungsfrei,...) gestaltet werden? (Kooperation Umweltreferat TUM)
+* Wie kann nachhaltiges Catering bei Veranstaltungen aussehen und implementiert werden?
+
+
+###### Pilot
+* Vorhoelzer Forum
