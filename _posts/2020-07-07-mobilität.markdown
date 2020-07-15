@@ -2,7 +2,7 @@
 layout: post
 title:  AG Mobilität
 date:   2020-07-07 15:28:55 +0300
-image:  img_mobilität.jpg
+image:  img_mobility.jpg
 tags:   Mobilität ÖPNV DesignBuild Radln
 ---
 Der größte Teil der Studierenden und Mitarbeiter*innen reist bereits mit dem Fahrrad oder dem ÖPNV
