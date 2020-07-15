@@ -2,7 +2,6 @@
 layout: post
 title:  AG Materialverbrauch im Entwurf
 date:   2020-07-07 15:28:55 +0300
-image:  02.jpg
 tags:   Müll Lehre Recycling
 ---
 250 Studierende haben letztes Semester zusammen knapp 2000 Modelle gebaut. Dafür wurden 4000
