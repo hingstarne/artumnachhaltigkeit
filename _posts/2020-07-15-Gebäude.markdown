@@ -2,7 +2,7 @@
 layout: post
 title:  AG unser Haus
 date:   2020-07-15 15:28:55 +0300
-image:  img_mobilität.jpg
+image:  img_gebäude.jpg
 tags:   Klima Forschung Betrieb Entwurf
 ---
 An den Lehrstühlen befindet sich ein Teil der elektronischen Geräte (39%) dauerhaft im Standby. Die
