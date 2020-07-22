@@ -2,7 +2,7 @@
 layout: post
 title:  AG Entwurf
 date:   2020-07-07 15:28:55 +0300
-image:  02.jpg
+image:  img_entwurf.jpg
 tags:   Müll Lehre Recycling Entwurf
 ---
 Mülltrennung durch die Mitarbeiter*innen findet teilweise statt. Zumindest zwischen Glas. Papier und

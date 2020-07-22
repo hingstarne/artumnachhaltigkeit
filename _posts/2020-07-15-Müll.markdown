@@ -2,7 +2,7 @@
 layout: post
 title:  AG Müll
 date:   2020-07-15 15:28:55 +0300
-image:  img_mobilität.jpg
+image:  img_müll.jpg
 tags:   Recycling
 ---
 An den Lehrstühlen befindet sich ein Teil der elektronischen Geräte (39%) dauerhaft im Standby. Die
