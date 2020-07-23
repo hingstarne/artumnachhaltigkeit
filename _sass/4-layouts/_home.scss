@@ -80,10 +80,7 @@
       transition: transform 0.35s cubic-bezier(0.8, 0, 0.2, 1);
     }
     &:hover {
-      &:before {
-      transform: scale3d(1, 1, 1);
       color: $secondary-color0;
-      }
     }
   }
 }
