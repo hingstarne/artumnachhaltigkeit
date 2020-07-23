@@ -410,8 +410,5 @@
   .nav-menu .menu-link,
   .nav-buttons i.ion {
     transition: color $global-transition;
-    &:hover {
-      color: #fff;
-    }
   }
 }
