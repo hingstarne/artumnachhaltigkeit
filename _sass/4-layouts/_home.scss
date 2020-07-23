@@ -18,7 +18,8 @@
     .logo-text {
       font-family: 'Muli', sans-serif;
       font-size: 13px;
-      font-weight: 700;
+      line-height: 1.3;
+      display: block;
       color: $secondary-color;
       &:hover {
         color: $primary-color;
