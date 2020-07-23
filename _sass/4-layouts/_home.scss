@@ -17,12 +17,11 @@
   .logo-title {
     .logo-text {
       font-family: 'Muli', sans-serif;
-      font-size: 18px;
+      font-size: 13px;
       font-weight: 700;
-      line-height: 18px;
-      color: $text;
+      color: $secondary-color;
       &:hover {
-        color: $secondary-color;
+        color: $primary-color;
       }
     }
   }
@@ -64,7 +63,7 @@
     font-weight: 700;
     font-family: 'Muli', sans-serif;
     line-height: 60px;
-    color: $text;
+    color: $secondary-color;
     &:before {
       content: '';
       position: absolute;
@@ -79,7 +78,7 @@
       transition: transform 0.35s cubic-bezier(0.8, 0, 0.2, 1);
     }
     &:hover {
-      color: $secondary-color;
+      color: $primary-color;
     }
   }
 }
