@@ -63,7 +63,6 @@
     font-size: 30px;
     font-weight: 700;
     font-family: 'Muli', sans-serif;
-    letter-spacing: 5px;
     line-height: 60px;
     color: $text;
     &:before {
@@ -115,9 +114,6 @@
 .nav-menu .menu-link,
 .nav-buttons i.ion {
   transition: color $global-transition;
-  &:hover {
-    color: #fff;
-  }
 }
 
 .nav-buttons {
